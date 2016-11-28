@@ -6,12 +6,12 @@
 
     <groupId>com.sampleapp.cc</groupId>
     <artifactId>sampletest</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.10-SNAPSHOT</version>
 
     <parent>
         <groupId>com.sampleapp.cc</groupId>
         <artifactId>sampleapp</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.10-SNAPSHOT</version>
     </parent>
 
 
