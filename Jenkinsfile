@@ -1,4 +1,4 @@
-node ('linux') {
+node {
 
   echo 'Preparation'
   env.PATH = "${tool 'M3'}/bin:${env.PATH}"
